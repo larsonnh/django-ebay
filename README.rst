@@ -1,10 +1,9 @@
-
 This code is in the process of migrating from google code to github. For now, please get the lastest code from google code,
 
 http://code.google.com/p/ebay-sdk-python/
 
 
-Welcome to the ebaysdk for Python
+Welcome to Django Ebay
 =================================
 
 Welcome to the eBay SDK for Python. This SDK cuts development time and simplifies tasks like error handling and enables you to make Finding, Shopping, Merchandising, and Trading API calls. In Addition, the SDK comes with RSS and HTML back-end libraries.
